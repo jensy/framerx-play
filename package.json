@@ -1,0 +1,22 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.4.16"
+	},
+	"peerDependencies": {
+		"framer": "^0.10",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"framer": {
+		"id": "cb529058-52c6-479d-a14f-1076a6173c76"
+	},
+	"author": "Jens Nikolaus",
+	"dependencies": {
+		"@framer/benjamin.input": "^1.1.0",
+		"@framer/framer.examples": "^1.5.0",
+		"@framer/jordandobson.webcam": "^1.1.0",
+		"@framer/jpentenrieder.grommet": "^1.6.0"
+	}
+}
